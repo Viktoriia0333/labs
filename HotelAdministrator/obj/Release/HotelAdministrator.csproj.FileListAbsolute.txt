@@ -1,0 +1,50 @@
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\HotelAdministrator.exe.config
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\HotelAdministrator.exe
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\HotelAdministrator.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\DAL.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\DAL.dll.config
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\MainWindow.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\OtherRooms.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\App.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator_MarkupCompile.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator_MarkupCompile.lref
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\MainWindow.baml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\OtherRooms.baml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.g.resources
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.Properties.Resources.resources
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csproj.GenerateResource.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.exe
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\HotelAdministrator.exe.config
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\HotelAdministrator.exe
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\HotelAdministrator.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\DAL.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.SqlServer.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\DAL.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\DAL.dll.config
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Release\EntityFramework.SqlServer.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csprojAssemblyReference.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\MainWindow.g.cs
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\OtherRooms.g.cs
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\App.g.cs
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator_MarkupCompile.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator_MarkupCompile.lref
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\MainWindow.baml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\OtherRooms.baml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.g.resources
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.Properties.Resources.resources
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csproj.GenerateResource.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csproj.CoreCompileInputs.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.csproj.CopyComplete
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.exe
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Release\HotelAdministrator.pdb

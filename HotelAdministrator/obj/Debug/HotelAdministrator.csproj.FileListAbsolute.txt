@@ -1,0 +1,121 @@
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\App.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.lref
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe.config
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\HotelAdministrator.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\MainWindow.baml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.g.resources
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.Properties.Resources.resources
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.GenerateResource.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.exe
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\OtherRooms.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\OtherRooms.baml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe.config
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\HotelAdministrator.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\DAL.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\DAL.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\DAL.dll.config
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csprojAssemblyReference.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\MainWindow.g.cs
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\OtherRooms.g.cs
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\App.g.cs
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.lref
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\MainWindow.baml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\OtherRooms.baml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.g.resources
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.Properties.Resources.resources
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.GenerateResource.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CoreCompileInputs.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CopyComplete
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.exe
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\HotelAdministrator\obj\Debug\HotelAdministrator.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\bin\Debug\System.ValueTuple.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\NewRoom.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.1_3\HotelAdministrator\obj\Debug\NewRoom.baml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe.config
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\HotelAdministrator.pdb
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\System.ValueTuple.dll
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\bin\Debug\System.ValueTuple.xml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\NewRoom.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\OtherRooms.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\App.g.cs
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.cache
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.lref
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\MainWindow.baml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\NewRoom.baml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\OtherRooms.baml
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.g.resources
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.Properties.Resources.resources
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.GenerateResource.cache
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.exe
+C:\Users\Vitalik\Desktop\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe.config
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\HotelAdministrator.exe
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\HotelAdministrator.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\AutoMapper.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\DAL.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\System.ValueTuple.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\DAL.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\DAL.dll.config
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\AutoMapper.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\AutoMapper.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\bin\Debug\System.ValueTuple.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.AssemblyReference.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\MainWindow.g.cs
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\NewRoom.g.cs
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\OtherRooms.g.cs
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\App.g.cs
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator_MarkupCompile.lref
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\MainWindow.baml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\NewRoom.baml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\OtherRooms.baml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.g.resources
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.Properties.Resources.resources
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.GenerateResource.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CoreCompileInputs.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.csproj.CopyComplete
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.exe
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\HotelAdministrator\obj\Debug\HotelAdministrator.pdb

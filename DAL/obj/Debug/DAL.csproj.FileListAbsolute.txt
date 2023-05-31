@@ -1,0 +1,36 @@
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\DAL.dll.config
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\DAL.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\DAL.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\DAL.dll.config
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\DAL.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\DAL.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\obj\Debug\DAL.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.2_3\DAL\obj\Debug\DAL.pdb

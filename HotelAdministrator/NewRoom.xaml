@@ -1,0 +1,17 @@
+﻿<Window x:Class="HotelAdministrator.NewRoom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelAdministrator"
+        mc:Ignorable="d"
+        Title="NewRoom" Height="216.667" Width="270.512">
+    <Grid>
+        <ComboBox x:Name="cmb" Margin="55,36,62,0" VerticalAlignment="Top"/>
+        <Label Content="Категория" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tprice" HorizontalAlignment="Left" Height="23" Margin="55,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146"/>
+        <Label Content="Цена за день" HorizontalAlignment="Left" Margin="84,79,0,0" VerticalAlignment="Top"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="55,150,0,0" VerticalAlignment="Top" Width="146" Click="Button_Click"/>
+
+    </Grid>
+</Window>
